@@ -1,4 +1,4 @@
-Round Rock Donuts
+Rund Rock Donuts
 (Modified from: https://basicswithbabish.co/basicsepisodes/donuts)
 
 
@@ -90,4 +90,8 @@ Proof longer
 	wilco: "It takes a long time: fermentation of the dough" - Might take a long time because of the batch size
 	wilco: "flour, sugar, eggs, yeast"
 	wilco: Second proof is 20-30 minutes in a hot box
+
+Plan 4:
+bread flour mixed in with ap for more chewy dough
+
 
