@@ -24,3 +24,7 @@ sage
 rosemary
 red onion
 crap ton of garlic
+
+Second attempt:
+I replaced celery with bell pepper and was great.
+
